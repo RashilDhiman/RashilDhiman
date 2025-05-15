@@ -1,62 +1,54 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" align="right" style="margin-left: 20px; border-radius: 10px;" alt="Android Coding Cat"/>
+<img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" width="220" align="right" style="margin-left: 20px; border-radius: 10px;" alt="Coding Cat"/>
 
 # Hey there! 👋 I'm Rashil Dhiman
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate Android Developer who loves building intuitive, scalable, and performance-optimized mobile apps using **Kotlin**, **Java**, and modern **Jetpack libraries**. Whether it's a sleek UI/UX with **Jetpack Compose** or powerful background services with **WorkManager**, I enjoy crafting apps that make a real impact!
-
-I blend creativity with clean code to bring seamless experiences to life—and yes, I enjoy debugging just as much as building. 😄
+I'm an enthusiastic **Android Developer** 👨‍💻 focused on crafting elegant, performant, and user-friendly mobile applications using **Kotlin** and **Jetpack Compose**. I love bringing designs to life and building apps that solve real-world problems. I’m also fascinated by **cloud-native development** and exploring tools like **AWS** and **EKS (Elastic Kubernetes Service)** for scalable deployments.
 
 ### 🔭 Current Focus
-- 🚀 Creating cutting-edge Android apps with Jetpack Compose
-- 🤖 Exploring Machine Learning in mobile via ML Kit and TensorFlow Lite
-- ☁️ Integrating Firebase and cloud-native Android solutions
-- 🎯 Enhancing CI/CD workflows using GitHub Actions and Fastlane
+- 📱 Building sleek UIs with **Jetpack Compose**
+- 🚀 Deploying containerized apps using **Docker + Amazon EKS**
+- ☁️ Learning more about **Cloud + DevOps** tools and practices
+- 🧠 Expanding knowledge in **Kotlin Coroutines** and **Jetpack Libraries**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 💡 Android Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### **Mobile Development**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-3E8BDA?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Languages & Tools**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
-### 🔌 Backend & APIs
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge&logo=android&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-009688?style=for-the-badge&logo=kotlin&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🔧 Tools & Libraries
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-
-### 🤖 ML & Innovation
-![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Rashil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashildhiman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashildhiman&layout=compact&theme=tokyonight)
+![Rashil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashil-dhiman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashil-dhiman&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashildhiman/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashildhiman)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashildhiman@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashil-dhiman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashil-dhiman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashil@example.com)
 
 ---
 
