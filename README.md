@@ -4,15 +4,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate Android Developer who loves building intuitive, scalable, and performance-optimized mobile apps using **Kotlin**, **Java**, and modern **Jetpack libraries**. Whether it's a sleek UI/UX with **Jetpack Compose** or powerful background services with **WorkManager**, I enjoy crafting apps that make a real impact!
+I'm a passionate Flutter & Android Developer who loves building beautiful, scalable, and high-performance mobile applications using Flutter, Kotlin, and Java. Whether it's building stunning UI with Flutter widgets or harnessing native power through Platform Channels, I thrive on creating seamless cross-platform and native experiences.
 
-I blend creativity with clean code to bring seamless experiences to life—and yes, I enjoy debugging just as much as building. 😄
+I merge creativity with clean architecture, ensuring code that's as elegant under the hood as it is on the screen. And yes—debugging is my happy place. 😄
 
-### 🔭 Current Focus
-- 🚀 Creating cutting-edge Android apps with Jetpack Compose
-- 🤖 Exploring Machine Learning in mobile via ML Kit and TensorFlow Lite
-- ☁️ Integrating Firebase and cloud-native Android solutions
-- 🎯 Enhancing CI/CD workflows using GitHub Actions and Fastlane
+🔭 Current Focus
+📱 Building pixel-perfect Flutter apps for Android & iOS
+
+🔌 Integrating REST APIs, GraphQL, and Firebase into Flutter & Android
+
+🔄 Creating reusable widget libraries and scalable app architectures (BLoC, MVVM)
+
+🧪 Writing unit & integration tests and setting up CI/CD with GitHub Actions and Fastlane
+
 
 ---
 
