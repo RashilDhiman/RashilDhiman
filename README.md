@@ -8,7 +8,7 @@ I'm a passionate Flutter & Android Developer who loves building beautiful, scala
 
 I merge creativity with clean architecture, ensuring code that's as elegant under the hood as it is on the screen. And yes—debugging is my happy place. 😄
 
-🔭 Current Focus
+🔭 Current Focus<br>
 📱 Building pixel-perfect Flutter apps for Android & iOS
 
 🔌 Integrating REST APIs, GraphQL, and Firebase into Flutter & Android
