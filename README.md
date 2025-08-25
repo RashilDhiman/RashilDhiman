@@ -4,14 +4,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate Flutter & Android Developer who loves building beautiful, scalable, and high-performance mobile applications using Flutter, Kotlin, and Java. Whether it's building stunning UI with Flutter widgets or harnessing native power through Platform Channels, I thrive on creating seamless cross-platform and native experiences.
+Mobile Application Developer with hands-on experience in building real-time tracking applications,
+e-commerce solutions, and Firebase-integrated platforms. Proficient in JavaScript, TypeScript,
+Java, Kotlin, REST APIs, Redux, and Context API. I thrive on creating seamless cross-platform and native experiences.
 
 I merge creativity with clean architecture, ensuring code that's as elegant under the hood as it is on the screen. And yes—debugging is my happy place. 😄
 
 🔭 Current Focus<br>
-📱 Building pixel-perfect Flutter apps for Android & iOS
+📱 Building pixel-perfect React Native apps for Android & iOS
 
-🔌 Integrating REST APIs, GraphQL, and Firebase into Flutter & Android
+🔌 Integrating REST APIs, GraphQL, and Firebase into React Native & Android
 
 🔄 Creating reusable widget libraries and scalable app architectures (BLoC, MVVM)
 
