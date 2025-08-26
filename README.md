@@ -15,7 +15,7 @@ I'm passionate about writing clean, efficient code and optimizing performance—
 ## 💼 Professional Experience
 
 ### **Mobile Application Developer** @ Jai Japnam Technologies Pvt. Ltd
-_Nov 2024 – Present_
+_Nov 2024 – June 2025_
 - Developed cross-platform mobile applications with focus on Android platform optimization
 - Implemented native Android modules for React Native applications
 - Built geolocation features using native Android location services
