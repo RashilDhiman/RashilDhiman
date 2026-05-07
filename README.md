@@ -2,30 +2,34 @@
 
 # 👋 Hi, I'm **Rashil Dhiman**
 
-### Mobile Application Developer | React Native | Android | AI-Powered Mobile Apps
+### React Native Developer | Android Developer
 
-I’m a **Mobile App Developer with 2+ years of production experience** building scalable **React Native and Android applications**.
+Mobile Application Developer with hands-on experience building production-ready **React Native** and **Android applications** focused on real-time systems, performance optimization, and scalable mobile architecture.
 
-I specialize in:
+Currently working on live applications involving:
 
-* 📱 **React Native & Android Development**
-* ⚡ **Performance Optimization**
-* 📍 **Real-Time GPS Tracking Systems**
-* 🤖 **On-Device AI & Computer Vision**
-* 🔥 **Firebase & WebSocket Architectures**
-
-I have successfully shipped **2 live Play Store applications** and currently work on **AI-native mobile experiences** using **MediaPipe + Vision Camera**.
+* 📍 Real-Time GPS Tracking
+* 🔥 Firebase & Firestore
+* ⚡ WebSocket-based Synchronization
+* 📱 React Native & Android
+* 🤖 AI-powered Fitness Features
 
 ---
 
-## 🚀 Professional Highlights
+## 🚀 About Me
 
-* Improved UI responsiveness by **35%** across 15+ screens using Redux optimization
-* Reduced app cold-start time by **30%**
-* Reduced battery usage by **40%** using intelligent background execution
-* Built real-time multi-user location tracking architecture
-* Developing **on-device AI fitness coaching features**
-* Production experience with **React Native, Kotlin, Java, Firebase**
+I have experience developing and maintaining mobile applications using **React Native, Kotlin, Java, Firebase, Redux Toolkit, and REST APIs**.
+
+My work mainly focuses on:
+
+* Real-time location tracking systems
+* Background services & WorkManager
+* Performance optimization
+* API integration
+* Production debugging & release management
+* Push notifications & Firebase services
+
+I enjoy solving real-world mobile engineering challenges related to app performance, background execution, and scalable architecture.
 
 ---
 
@@ -35,11 +39,12 @@ I have successfully shipped **2 live Play Store applications** and currently wor
 
 📍 Mohali, Punjab | *Nov 2024 – Present*
 
-* Own development and scaling of production **React Native applications**
-* Built real-time movement synchronization features
-* Implemented **background services + WorkManager**
-* Improved state management performance across **15+ screens**
-* Designed **FCM + Firestore notification flows**
+* Developing React Native features for a real-time tracking application
+* Implemented Firebase Authentication, Firestore, and push notifications
+* Worked on WebSocket-based live synchronization
+* Optimized Redux Toolkit state management
+* Implemented Android foreground services and WorkManager
+* Worked on production debugging, API integration, and Play Store releases
 
 ---
 
@@ -47,85 +52,73 @@ I have successfully shipped **2 live Play Store applications** and currently wor
 
 📍 Chandigarh, India | *May 2024 – Nov 2024*
 
-* Built and shipped production **e-commerce Android application**
-* Used **Kotlin, Java, MVVM, Firebase**
-* Improved API performance by **30%**
-* Fixed critical ANR-causing architectural issues
+* Built Android application features using Kotlin and Java
+* Worked with MVVM architecture and Jetpack components
+* Integrated REST APIs and Firebase services
+* Worked on ANR fixes, lifecycle handling, and performance optimization
+* Collaborated with backend and design teams for production releases
 
 ---
 
-## 🛠 Core Tech Stack
+## 🛠 Tech Stack
 
-### Mobile
+### Mobile Development
 
-React Native • Android SDK • Kotlin • Java • TypeScript • JavaScript
+React Native • Android SDK • Kotlin • Java • JavaScript • TypeScript
 
-### Architecture
+### Architecture & State Management
 
-MVVM • Clean Architecture • Redux Toolkit • SOLID Principles
+Redux Toolkit • MVVM • Clean Architecture
 
-### Backend & Cloud
+### Backend & APIs
 
-Firebase • Firestore • FCM • REST APIs • WebSockets • Socket.IO
+Firebase • Firestore • REST APIs • WebSockets • Socket.IO • Push Notifications
 
-### AI & Vision
+### AI & Computer Vision
 
-MediaPipe • Vision Camera • TensorFlow Lite • Gemini API
+MediaPipe • Vision Camera • Gemini API
 
 ### Tools
 
-Git • Android Studio • Flipper • Postman • JIRA
+Git • Android Studio • Flipper • Postman
 
 ---
 
-## 📱 Featured Projects
+## 📱 Projects
 
-### 📍 MapDekh — Real-Time GPS Tracker
+### 📍 MapDekh — Real-Time GPS Tracking App
+
+Production tracking application with:
+
+* Live multi-user location sharing
+* Background tracking support
+* WebSocket synchronization
+* GPS optimization
+* Play Store deployment
 
 🔗 https://play.google.com/store/apps/details?id=com.mapdekhapp
-
-Built a production-grade real-time location tracking app with:
-
-* live multi-user sync
-* adaptive GPS sampling
-* battery optimization
-* WebSocket architecture
-
----
-
-### 🛒 Altrange — E-Commerce App
-
-🔗 https://play.google.com/store/apps/details?id=com.altrange.pvt.ltd
-
-Production Android app with:
-
-* authentication
-* payments
-* notifications
-* MVVM architecture
 
 ---
 
 ### 🤖 GymAI — AI Fitness Coach
 
-🔗 https://github.com/RashilDhiman/GymAI
+AI-based fitness application featuring:
 
-AI-powered mobile fitness coach with:
-
-* real-time pose detection
-* MediaPipe inference
+* Real-time pose detection
+* MediaPipe integration
 * Vision Camera frame processors
-* personalized AI plans
+* Workout monitoring features
+
+🔗 https://github.com/rashildhiman/GymAI
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/rashil-dhiman-5121b7227/
-* GitHub: https://github.com/RashilDhiman
-* Portfolio: https://rashildhimanportfolio.netlify.app
+* LinkedIn: https://linkedin.com/in/rashil-dhiman-5121b7227
+* GitHub: https://github.com/rashildhiman
 * Email: [rashildhiman2002@gmail.com](mailto:rashildhiman2002@gmail.com)
 
 ---
 
-> **Building scalable mobile products with performance, architecture, and real-world impact.**
+> Passionate about building scalable mobile applications with clean architecture, performance optimization, and real-world functionality.
